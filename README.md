@@ -2,6 +2,8 @@
 
 Charla online sobre desarrollo de videojuegos con LÖVE (Love2D)
 
+Todos los ejemplos del tutorial están en el directorio `ejemplos`.
+
 **Tabla de contenidos**
 
 **Parte 1**
